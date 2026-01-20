@@ -3,7 +3,8 @@
 ## About Me
 - Brazilian, 19 years old
 - 🎓 Software Engineering student (5th semester) at **UnisenaiPR**
-- 💻 Skilled in **Java** and **Python**  
+- 💻 Skilled in **Java** and **Python**
+  - I've worked with both front-end and back-end development using JavaScript.
 - 🚀 Worked on academic projects with companies such as:  
   - Volkswagen  
   - CPV and Homeney  
@@ -17,6 +18,9 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+</div>
+
 </div>
 
 ---
